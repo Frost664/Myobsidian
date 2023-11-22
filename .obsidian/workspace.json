@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "fb931d7b19ad088b",
+    "type": "split",
+    "children": [
+      {
+        "id": "020c4e55777b49ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90af6735b48057b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01日志/2023-11-22.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cce58b9ce5d4d64",
+    "type": "split",
+    "children": [
+      {
+        "id": "b36cf58b2eb92cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4bbab0044a878a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "977dd72745df1c5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a22e7059bfa2bfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fa7856ce564b2afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a5ec8cad93982d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3af87b2f992263",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "173d68cfbfd23b7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01日志/2023-11-22.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be33ed50136210b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01日志/2023-11-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b4f1409ce2606fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "184899a66b24a8c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01日志/2023-11-22.md"
+              }
+            }
+          },
+          {
+            "id": "c85d43a32756a2ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a25c8568f936f6d5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "a90af6735b48057b",
+  "lastOpenFiles": [
+    "01日志/2023-11-22.md",
+    "01日志/2023-11-21.md",
+    "01日志/2023-08-30.md",
+    "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+    "Pasted image 20231122093806.png",
+    "Pasted image 20231122093804.png",
+    "03知识学习/Tensorflow笔记.md",
+    "07城市天际线2/未命名.md",
+    "03知识学习/深度学习与神经网络",
+    "07城市天际线2",
+    "03知识学习/利用python做数据分析.md",
+    "03知识学习/可计算性与计算复杂性.md",
+    "未命名.canvas",
+    "03知识学习/深度学习 工程师认证的初级教程.md",
+    "01日志/2023-11-20.md",
+    "01日志/2023-11-19.md",
+    "Pasted image 20231020093422.png",
+    "Pasted image 20230901215414.png",
+    "03知识学习/01-英语.md",
+    "03知识学习/02-模式识别.md",
+    "03知识学习/计算机网络理论.md",
+    "03知识学习/白话机器学习的数学.md",
+    "03知识学习/数据分析与展示.md",
+    "01日志/2023-11-18.md",
+    "01日志/2023-11-16.md",
+    "01日志/2023-11-14.md",
+    "01日志/2023-11-12.md",
+    "01日志/2023-11-10.md",
+    "Pasted image 20231108164153.png",
+    "01日志/2023-11-08.md",
+    "01日志/2023-11-01.md",
+    "01日志/2023-11-02.md",
+    "01日志/2023-11-03.md",
+    "01日志/2023-11-04.md",
+    "Pasted image 20231020102013.png",
+    "Pasted image 20231020100828.png",
+    "Pasted image 20231020100738.png",
+    "Pasted image 20231020095040.png",
+    "Pasted image 20231020094643.png",
+    "第5组 4.pptx",
+    "第5组 3.pptx",
+    "第5组 2.pptx",
+    "~$第5组 1.pptx",
+    "第5组 1.pptx",
+    "第5组.pptx",
+    "日志",
+    "06课程"
+  ]
+}
