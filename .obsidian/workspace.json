@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+                "file": "01日志/2023-11-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa7856ce564b2afd",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+                "file": "01日志/2023-11-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+                "file": "01日志/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md"
+                "file": "01日志/2023-11-24.md"
               }
             }
           },
@@ -184,6 +185,8 @@
   "active": "b88aa1753f4deea8",
   "lastOpenFiles": [
     "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+    "01日志/2023-11-24.md",
+    "Pasted image 20231123105115.png",
     "01日志/2023-11-23.md",
     "01日志/2023-11-22.md",
     "01日志/2023-11-21.md",
@@ -216,12 +219,10 @@
     "01日志/2023-11-08.md",
     "01日志/2023-11-01.md",
     "01日志/2023-11-02.md",
-    "01日志/2023-11-03.md",
     "Pasted image 20231020102013.png",
     "Pasted image 20231020100828.png",
     "Pasted image 20231020100738.png",
     "Pasted image 20231020095040.png",
-    "Pasted image 20231020094643.png",
     "第5组 4.pptx",
     "第5组 3.pptx",
     "第5组 2.pptx",
