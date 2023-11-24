@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01日志/2023-11-24.md",
+                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#语义鸿沟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01日志/2023-11-24.md",
+                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01日志/2023-11-24.md",
+                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01日志/2023-11-24.md"
+                "file": "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,8 @@
   },
   "active": "b88aa1753f4deea8",
   "lastOpenFiles": [
-    "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
     "01日志/2023-11-24.md",
+    "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
     "Pasted image 20231123105115.png",
     "01日志/2023-11-23.md",
     "01日志/2023-11-22.md",
