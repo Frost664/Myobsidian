@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "401c237133217e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01日志/2023-11-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -185,8 +196,10 @@
   },
   "active": "b88aa1753f4deea8",
   "lastOpenFiles": [
-    "01日志/2023-11-24.md",
     "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+    "01日志/2023-11-25.md",
+    "01日志/2023-11-26.md",
+    "01日志/2023-11-24.md",
     "Pasted image 20231123105115.png",
     "01日志/2023-11-23.md",
     "01日志/2023-11-22.md",
@@ -218,8 +231,6 @@
     "01日志/2023-11-10.md",
     "Pasted image 20231108164153.png",
     "01日志/2023-11-08.md",
-    "01日志/2023-11-01.md",
-    "01日志/2023-11-02.md",
     "Pasted image 20231020102013.png",
     "Pasted image 20231020100828.png",
     "Pasted image 20231020100738.png",
