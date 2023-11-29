@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01日志/2023-11-28.md",
+                "file": "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01日志/2023-11-28.md",
+                "file": "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01日志/2023-11-28.md",
+                "file": "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01日志/2023-11-28.md"
+                "file": "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md"
               }
             }
           },
@@ -164,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,11 @@
   },
   "active": "ae39193e2574a698",
   "lastOpenFiles": [
+    "Pasted image 20231129222302.png",
+    "01日志/2023-11-29.md",
+    "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md",
     "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+    "06课程/计算机网络.md",
     "01日志/2023-11-28.md",
     "01日志/2023-11-26.md",
     "01日志/2023-11-25.md",
@@ -219,9 +224,6 @@
     "03知识学习/01-英语.md",
     "03知识学习/02-模式识别.md",
     "03知识学习/计算机网络理论.md",
-    "03知识学习/白话机器学习的数学.md",
-    "03知识学习/数据分析与展示.md",
-    "01日志/2023-11-18.md",
     "第5组 4.pptx",
     "第5组 3.pptx",
     "第5组 2.pptx",
