@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05论文/ActionCLIP代码/run_test.sh.md",
+                "file": "03知识学习/异构图神经网络/异构图神经网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa7856ce564b2afd",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05论文/ActionCLIP代码/run_test.sh.md",
+                "file": "03知识学习/异构图神经网络/异构图神经网络.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05论文/ActionCLIP代码/run_test.sh.md",
+                "file": "03知识学习/异构图神经网络/异构图神经网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05论文/ActionCLIP代码/run_test.sh.md"
+                "file": "03知识学习/异构图神经网络/异构图神经网络.md"
               }
             }
           },
@@ -163,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,11 +182,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3c4bbab0044a878a",
+  "active": "ae39193e2574a698",
   "lastOpenFiles": [
-    "05论文/ActionCLIP代码/wandb.md",
-    "05论文/ActionCLIP代码/run_test.sh.md",
+    "01日志/2023-12-13.md",
+    "03知识学习/异构图神经网络/异构图神经网络.md",
+    "03知识学习/异构图神经网络",
+    "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
+    "01日志/2023-12-12.md",
+    "Pasted image 20231210201303.png",
+    "01日志/2023-12-10.md",
+    "01日志/2023-12-08.md",
+    "01日志/2023-12-07.md",
+    "01日志/2023-12-06.md",
     "01日志/2023-12-05.md",
+    "05论文/ActionCLIP代码/run_test.sh.md",
+    "06课程/计算机网络.md",
+    "09项目/省教育结项.md",
+    "09项目",
+    "未命名.md",
+    "未命名 1.md",
+    "05论文/ActionCLIP代码/wandb.md",
     "05论文/ActionCLIP-A New Paradigm for Video Action Recognition.md",
     "01日志/2023-12-04.md",
     "01日志/2023-12-03.md",
@@ -197,17 +214,8 @@
     "05论文/ActionCLIP代码",
     "01日志/2023-11-30.md",
     "01日志/2023-11-29.md",
-    "未命名.md",
     "Pasted image 20231129222302.png",
-    "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
-    "06课程/计算机网络.md",
     "01日志/2023-11-28.md",
-    "01日志/2023-11-26.md",
-    "01日志/2023-11-25.md",
-    "01日志/2023-11-24.md",
-    "01日志/2023-11-23.md",
-    "01日志/2023-11-22.md",
-    "01日志/2023-11-21.md",
     "Pasted image 20231128222732.png",
     "Pasted image 20231128211637.png",
     "Pasted image 20231128162347.png",
@@ -215,19 +223,13 @@
     "Pasted image 20231128160843.png",
     "Pasted image 20231128160629.png",
     "Pasted image 20231128160508.png",
-    "Pasted image 20231128151307.png",
-    "08杂项/解码器.md",
     "08杂项",
-    "01日志/2023-11-27.md",
-    "01日志/2023-08-30.md",
     "03知识学习/深度学习与神经网络",
     "07城市天际线2",
     "未命名.canvas",
     "第5组 4.pptx",
     "第5组 3.pptx",
     "第5组 2.pptx",
-    "~$第5组 1.pptx",
-    "第5组 1.pptx",
-    "第5组.pptx"
+    "~$第5组 1.pptx"
   ]
 }
