@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "right": {
     "id": "fa7856ce564b2afd",
@@ -182,7 +181,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ae39193e2574a698",
+  "active": "40c82f26152d1ab0",
   "lastOpenFiles": [
     "06课程/计算机体系结构.md",
     "01日志/2023-12-15.md",
