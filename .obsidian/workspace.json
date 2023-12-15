@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92f48d6adfe6a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01日志/2023-12-15.md",
+                "file": "A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01日志/2023-12-15.md",
+                "file": "A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01日志/2023-12-15.md"
+                "file": "A.md"
               }
             }
           },
@@ -181,8 +194,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ae39193e2574a698",
+  "active": "a92f48d6adfe6a9f",
   "lastOpenFiles": [
+    "01日志/2023-12-15.md",
+    "A.md",
     "09项目/省教育结项.md",
     "09项目",
     "08杂项/解码器.md",
@@ -217,8 +232,6 @@
     "03知识学习/利用python做数据分析.md",
     "03知识学习/Tensorflow笔记.md",
     "03知识学习/02-模式识别.md",
-    "03知识学习/01-英语.md",
-    "02算法/完全背包问题.md",
     "Pasted image 20231210201303.png",
     "Pasted image 20231201105648.png",
     "Pasted image 20231129222302.png",
