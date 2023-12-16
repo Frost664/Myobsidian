@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7df3cc8d06abf51",
+        "id": "912be5fa33ebdaaf",
         "type": "tabs",
         "children": [
           {
-            "id": "ae39193e2574a698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01日志/2023-12-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92f48d6adfe6a9f",
+            "id": "8899f0153d3ded89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa7856ce564b2afd",
@@ -176,8 +164,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +181,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a92f48d6adfe6a9f",
+  "active": "8899f0153d3ded89",
   "lastOpenFiles": [
+    "05论文/石川/图神经网络研究综述_侯磊.pdf",
+    "01日志/2023-12-16.md",
+    "06课程/自然辨证法.md",
     "01日志/2023-12-15.md",
     "A.md",
     "09项目/省教育结项.md",
@@ -224,14 +214,10 @@
     "03知识学习/深度学习与神经网络/深度学习与神经网络 复旦 邱锡鹏.md",
     "03知识学习/异构图神经网络/异构图神经网络.md",
     "03知识学习/计算机网络理论.md",
-    "03知识学习/深度学习与神经网络",
     "03知识学习/白话机器学习的数学.md",
     "03知识学习/深度学习 工程师认证的初级教程.md",
     "03知识学习/数据分析与展示.md",
     "03知识学习/可计算性与计算复杂性.md",
-    "03知识学习/利用python做数据分析.md",
-    "03知识学习/Tensorflow笔记.md",
-    "03知识学习/02-模式识别.md",
     "Pasted image 20231210201303.png",
     "Pasted image 20231201105648.png",
     "Pasted image 20231129222302.png",
