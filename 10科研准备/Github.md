@@ -1,0 +1,2 @@
+当[[vpn]]和[[创建一个国外的邮箱]]这两部完成后，我们就可以做很多事情了，建议是学会开始使用Github和ChatGPT
+[GitHub: Let’s build from here · GitHub](https://www.bing.com/ck/a?!&&p=c603c2d0d01b7ec6JmltdHM9MTcwMzM3NjAwMCZpZ3VpZD0xZjVhMDU2OS04YjEwLTZjN2EtMDE0OC0xNjU0OGE3NjZkMmEmaW5zaWQ9NTIwNw&ptn=3&ver=2&hsh=3&fclid=1f5a0569-8b10-6c7a-0148-16548a766d2a&psq=github&u=a1aHR0cHM6Ly9naXRodWIuY29tLw&ntb=1)这就是GitHub的官网了，可以注册使用，然后学会白嫖使用他当云盘用。当然了，这个还有一个是国内版本的gitee这个就不用翻墙了，可以直接用，然后还可以选择是否公开你的仓库。我觉得可以把这个当作个人的私有云盘用。
