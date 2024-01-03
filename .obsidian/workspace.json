@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "de0d286e41297226",
+        "id": "989de0aecb8040fc",
         "type": "tabs",
+        "dimension": 29.215456674473067,
         "children": [
           {
-            "id": "6f121522920b3199",
+            "id": "445cae30f6a9abb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01日志/2023-12-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc4db5f1ef042c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06课程/人工智能.md",
+                "file": "01日志/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "96c1fc8c5dbb2ddf",
+        "type": "tabs",
+        "dimension": 70.78454332552693,
+        "children": [
+          {
+            "id": "81811359a79eb83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01日志/2024-01-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06课程/人工智能.md",
+                "file": "01日志/2024-01-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06课程/人工智能.md",
+                "file": "01日志/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06课程/人工智能.md"
+                "file": "01日志/2024-01-03.md"
               }
             }
           },
@@ -156,7 +163,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -180,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,51 +202,51 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ebc4db5f1ef042c9",
+  "active": "81811359a79eb83c",
   "lastOpenFiles": [
-    "10科研准备/Github.md",
-    "06课程/人工智能.md",
-    "10科研准备/vpn.md",
-    "10科研准备/zotero.md",
-    "10科研准备/创建一个国外的邮箱.md",
+    "kanban.md",
+    "01日志/2024-01-03.md",
+    "01日志/2024-01-02.md",
+    "空间不足，无法利用起16T硬盘.md",
+    "03知识学习/docker.md",
     "图像通道.md",
-    "未命名.md",
-    "A.md",
-    "10科研准备",
-    "01日志/2023-12-25.md",
-    "06课程/计算机体系结构.md",
-    "01日志/2023-12-21.md",
-    "06课程/计算机网络.md",
-    "03知识学习/计算机网络理论.md",
-    "06课程/自然辨证法.md",
-    "01日志/2023-12-20.md",
-    "03知识学习/02-模式识别.md",
-    "03知识学习/白话机器学习的数学.md",
-    "03知识学习/利用python做数据分析.md",
-    "03知识学习/深度学习 工程师认证的初级教程.md",
-    "03知识学习/数据分析与展示.md",
-    "03知识学习/Tensorflow笔记.md",
-    "05论文/ActionCLIP代码/wandb.md",
+    "看板.md",
+    "01日志/2023-12-26.md",
     "05论文/ActionCLIP代码/run_test.sh.md",
+    "05论文/ActionCLIP代码/wandb.md",
+    "05论文/石川/NeurIPS 2023/Provable Training for Graph Contrastive Learning.md",
+    "06课程/计算机体系结构.md",
+    "06课程/计算机网络.md",
+    "06课程/模式识别.md",
+    "06课程/人工智能.md",
+    "06课程/自然辨证法.md",
     "08杂项/解码器.md",
     "09项目/省教育结项.md",
-    "01日志/2023-12-19.md",
+    "10科研准备/Github.md",
+    "10科研准备/zotero.md",
+    "10科研准备/vpn.md",
+    "03知识学习/异构图神经网络/异构图神经网络.md",
+    "03知识学习/01-英语.md",
+    "03知识学习/Tensorflow笔记.md",
+    "03知识学习/数据分析与展示.md",
+    "01日志/2024-01-01.md",
+    "Pasted image 20231122093804.png",
+    "Pasted image 20231020101101.png",
+    "Pasted image 20231128112708.png",
+    "Pasted image 20231020093440.png",
+    "Pasted image 20231020093346.png",
+    "Pasted image 20231017194452.png",
+    "Pasted image 20230919155747.png",
+    "Pasted image 20230919154249.png",
+    "Pasted image 20230901215433.png",
+    "10科研准备",
     "05论文/石川/图神经网络研究综述_侯磊.pdf",
     "05论文/石川/NeurIPS 2023",
     "05论文/石川",
     "03知识学习/异构图神经网络",
     "Pasted image 20231210201303.png",
     "09项目",
-    "Pasted image 20231201105648.png",
     "05论文/ActionCLIP代码",
-    "Pasted image 20231129222302.png",
-    "Pasted image 20231128222732.png",
-    "Pasted image 20231128211637.png",
-    "Pasted image 20231128162347.png",
-    "Pasted image 20231128162139.png",
-    "Pasted image 20231128160843.png",
-    "Pasted image 20231128160629.png",
-    "Pasted image 20231128160508.png",
     "08杂项",
     "03知识学习/深度学习与神经网络",
     "07城市天际线2",
